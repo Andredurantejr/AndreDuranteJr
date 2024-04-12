@@ -2,7 +2,7 @@
 <div align="left">
    <br>
    <br>
-   🔎  Sou <i>Programador Fullstack </i> com experiência em linguagens Web (HTML, CSS, JavaScript & PHP)
+   🔎  Sou <i>Programador Fullstack </i> com experiência em linguagens Web (HTML, CSS, JavaScript, Python & PHP)
    <br>
    <br>
    📩 Email: andreduranteofc@gmail.com
